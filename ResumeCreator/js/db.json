@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "Bhavana",
+      "email": "bhavana@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "john@abc.com",
+      "password": "nnn",
+      "id": 3
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Bhavana",
+      "email": "vhgch@gf",
+      "password": "66776",
+      "id": 5
+    },
+    {
+      "name": "kjbjyhvh",
+      "email": "hvjhg",
+      "password": "uybgjy",
+      "id": 6
+    },
+    {
+      "name": "vhgv",
+      "email": "hvjg",
+      "password": "kjbjhv",
+      "id": 7
+    },
+    {
+      "name": "fgf",
+      "email": "dfb",
+      "password": "bgb",
+      "id": 8
+    },
+    {
+      "name": "ashutosh",
+      "email": "ashutosh@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Bhavana",
+      "email": "abcdefg@gmail.com",
+      "password": "123",
+      "id": 10
+    }
+  ],
+  "userResume": []
+}
