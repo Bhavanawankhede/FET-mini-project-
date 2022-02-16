@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "Bhavana Wankhede",
+      "email": "bhavana@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "rupali dhoke",
+      "email": "rupali@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "Ram Sharma",
+      "email": "ram@gmail.com",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "name": "Darshan Jadhav",
+      "email": "darshan@gmail.com",
+      "password": "123",
+      "id": 13
+    }
+  ],
+  "UserTemplate": [
+    {
+      "nameField": "bhavana wankhede",
+      "fatherNameField": "Anandrao Wankhede",
+      "addressField": "Nagpur",
+      "stateField": "Maharashtra",
+      "emailField": "bhavana@gmail.com",
+      "ageField": "22",
+      "birthdayField": "2022-02-17",
+      "contactField": "7766554987",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Playing,Cricket",
+      "tenthField": "97",
+      "twelthField": "91",
+      "graduationField": "87",
+      "id": 11
+    },
+    {
+      "nameField": "Rupali Dhoke",
+      "fatherNameField": "Arun Dhole",
+      "addressField": "Nagpur",
+      "stateField": "Maharashtra",
+      "emailField": "rupali@gmail.com",
+      "ageField": "22",
+      "birthdayField": "2022-02-02",
+      "contactField": "2222222222",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Playing,Cricket,Football",
+      "tenthField": "11",
+      "twelthField": "21",
+      "graduationField": "23",
+      "id": 16
+    },
+    {
+      "nameField": "Ram Sharma",
+      "fatherNameField": "Laxman Sharma",
+      "addressField": "Pune",
+      "stateField": "Maharashtra",
+      "emailField": "ram@gmail.com",
+      "ageField": "23",
+      "birthdayField": "2022-02-02",
+      "contactField": "2222222222",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Playing,Cricket,Football",
+      "tenthField": "22",
+      "twelthField": "22",
+      "graduationField": "22",
+      "id": 19
+    },
+    {
+      "nameField": "Darshan Jadhav",
+      "fatherNameField": "Atul Jadhav",
+      "addressField": "Nashik",
+      "stateField": "Gujrat",
+      "emailField": "darshan@gmail.com",
+      "ageField": "24",
+      "birthdayField": "2022-02-01",
+      "contactField": "8776521098",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Playing,Cricket,Football",
+      "tenthField": "95",
+      "twelthField": "87",
+      "graduationField": "83",
+      "id": 20
+    }
+  ]
+}
